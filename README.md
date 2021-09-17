@@ -26,3 +26,25 @@ Future studies may focus on the technological application of this model.
 - GenresRecordings: recordings organized by genres.
 - SpeciesRecordings: recordings organized by species.
 - TableRecordings: table with information about recordings.
+
+#### PLOS Computational Biology
+[PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009426)
+
+#### Citation
+```bibtex
+@article{10.1371/journal.pcbi.1009426,
+    doi = {10.1371/journal.pcbi.1009426},
+    author = {Ribeiro, Alison Pereira AND da Silva, Nádia Felix Felipe AND Mesquita, Fernanda Neiva AND Araújo, Priscila de Cássia Souza AND Rosa, Thierson Couto AND Mesquita-Neto, José Neiva},
+    journal = {PLOS Computational Biology},
+    publisher = {Public Library of Science},
+    title = {Machine learning approach for automatic recognition of tomato-pollinating bees based on their buzzing-sounds},
+    year = {2021},
+    month = {09},
+    volume = {17},
+    url = {https://doi.org/10.1371/journal.pcbi.1009426},
+    pages = {1-21},
+    abstract = {Bee-mediated pollination greatly increases the size and weight of tomato fruits. Therefore, distinguishing between the local set of bees–those that are efficient pollinators–is essential to improve the economic returns for farmers. To achieve this, it is important to know the identity of the visiting bees. Nevertheless, the traditional taxonomic identification of bees is not an easy task, requiring the participation of experts and the use of specialized equipment. Due to these limitations, the development and implementation of new technologies for the automatic recognition of bees become relevant. Hence, we aim to verify the capacity of Machine Learning (ML) algorithms in recognizing the taxonomic identity of visiting bees to tomato flowers based on the characteristics of their buzzing sounds. We compared the performance of the ML algorithms combined with the Mel Frequency Cepstral Coefficients (MFCC) and with classifications based solely on the from fundamental frequency, leading to a direct comparison between the two approaches. In fact, some classifiers powered by the MFCC–especially the SVM–achieved better performance compared to the randomized and sound frequency-based trials. Moreover, the buzzing sounds produced during sonication were more relevant for the taxonomic recognition of bee species than analysis based on flight sounds alone. On the other hand, the ML classifiers performed better in recognizing bees genera based on flight sounds. Despite that, the maximum accuracy obtained here (73.39% by SVM) is still low compared to ML standards. Further studies analyzing larger recording samples, and applying unsupervised learning systems may yield better classification performance. Therefore, ML techniques could be used to automate the taxonomic recognition of flower-visiting bees of the cultivated tomato and other buzz-pollinated crops. This would be an interesting option for farmers and other professionals who have no experience in bee taxonomy but are interested in improving crop yields by increasing pollination.},
+    number = {9},
+
+}
+´´´
